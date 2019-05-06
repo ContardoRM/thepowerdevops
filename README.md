@@ -1,2 +1,1 @@
-# thepowerdevops
-Repositorio con el fuente para Gdeveloper 5
+An example of a basic platformer (Mario-like) game made with GDevelop.
